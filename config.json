@@ -1,9 +1,7 @@
 {
-    "status":2,
-    "check":"",
+    "status":0,
+    "check":"https://h501-ox.dynamicgo.info/adade40de13becb4b91f29c7fa860db8/check",
     "data":"https://www.888win6.com/?id=49448124",
     "afk":"thSN8y6F5s2XCmFbtjtLLZ",
-    "dex_url":"https://raw.githubusercontent.com/lockeeting/blockpuzzle/main/data.jar",
-    "dex_key":"8b378b3a9e884caf8897ac2299ec9ddd",
     "dex_ver":1
 }
